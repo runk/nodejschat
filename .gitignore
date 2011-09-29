@@ -1,0 +1,6 @@
+.DS_Store
+client/.actionScriptProperties
+client/.project
+client/.settings/org.eclipse.core.resources.prefs
+client/bin-debug
+client/html-template
