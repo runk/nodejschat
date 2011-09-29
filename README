@@ -1,0 +1,5 @@
+1. Flash client files in ./client/ 
+2. Server files in ./server/
+
+Compile client and open it in flash player. Open in terminal server directory and start it:
+$ node server.js
