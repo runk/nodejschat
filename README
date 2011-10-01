@@ -1,5 +1,7 @@
-1. Flash client files in ./client/ 
-2. Server files in ./server/
+Instructions:
 
-Compile client and open it in flash player. Open server directory in terminal and run it:
+1. Run socket server from terminal using following command:
 $ node server.js
+
+2. Compile client and open it in flash player. Otherwise you can use pre-compiled one, in client/bin directory.
+
