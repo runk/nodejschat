@@ -4,4 +4,3 @@ Instructions:
 $ node server.js
 
 2. Compile client and open it in flash player. Otherwise you can use pre-compiled one, in client/bin directory.
-
